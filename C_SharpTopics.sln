@@ -15,53 +15,53 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArithemeticOperators", "Ari
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array", "Array\Array.csproj", "{AE0F8F0D-5724-4D9B-84C1-0D8E7DE148C5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncAwait", "AsyncAwait\AsyncAwait.csproj", "{204DAABD-3892-4180-94FC-8A17799012F8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AsyncAwait", "AsyncAwait\AsyncAwait.csproj", "{204DAABD-3892-4180-94FC-8A17799012F8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncAwaitParameter", "AsyncAwaitParameter\AsyncAwaitParameter.csproj", "{89E1BFE6-6993-4167-A4C2-9FA1C14F1A20}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AsyncAwaitParameter", "AsyncAwaitParameter\AsyncAwaitParameter.csproj", "{89E1BFE6-6993-4167-A4C2-9FA1C14F1A20}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassAndObjects", "ClassAndObjects\ClassAndObjects.csproj", "{136020F5-5EAF-4BD8-B4AD-C21008575F45}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassAndObjects", "ClassAndObjects\ClassAndObjects.csproj", "{136020F5-5EAF-4BD8-B4AD-C21008575F45}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConditionalStatementIF", "ConditionalStatementIF\ConditionalStatementIF.csproj", "{4AD11F2C-2207-4B06-AFCF-4BA70E806A69}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConditionalStatementIF", "ConditionalStatementIF\ConditionalStatementIF.csproj", "{4AD11F2C-2207-4B06-AFCF-4BA70E806A69}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Constructor", "Constructor\Constructor.csproj", "{CDAEB646-E730-4B86-B3C2-F6F4D9C74FFC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Constructor", "Constructor\Constructor.csproj", "{CDAEB646-E730-4B86-B3C2-F6F4D9C74FFC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContinueStatement", "ContinueStatement\ContinueStatement.csproj", "{C7CACBFC-97CB-487E-B035-8179D895FC92}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ContinueStatement", "ContinueStatement\ContinueStatement.csproj", "{C7CACBFC-97CB-487E-B035-8179D895FC92}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DependencyInjection", "DependencyInjection\DependencyInjection.csproj", "{528E4EB6-F56B-429B-8DC5-BABA7655120B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DependencyInjection", "DependencyInjection\DependencyInjection.csproj", "{528E4EB6-F56B-429B-8DC5-BABA7655120B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoWhileLoop", "DoWhileLoop\DoWhileLoop.csproj", "{EB0F858F-C726-4E1E-AAC0-6D76116820E5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DoWhileLoop", "DoWhileLoop\DoWhileLoop.csproj", "{EB0F858F-C726-4E1E-AAC0-6D76116820E5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EncapsulaionWithProperties", "EncapsulaionWithProperties\EncapsulaionWithProperties.csproj", "{FD75ECC0-C7B9-4C66-84F6-9E2B6DDBF6C4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EncapsulaionWithProperties", "EncapsulaionWithProperties\EncapsulaionWithProperties.csproj", "{FD75ECC0-C7B9-4C66-84F6-9E2B6DDBF6C4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Encapsulation", "Encapsulation\Encapsulation.csproj", "{3BEAF687-FAA9-49DB-A844-BB29DB08890A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Encapsulation", "Encapsulation\Encapsulation.csproj", "{3BEAF687-FAA9-49DB-A844-BB29DB08890A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EvenOdd", "EvenOdd\EvenOdd.csproj", "{DE1EA83C-3CC7-415D-87CE-D8B454647A53}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EvenOdd", "EvenOdd\EvenOdd.csproj", "{DE1EA83C-3CC7-415D-87CE-D8B454647A53}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Factorial", "Factorial\Factorial.csproj", "{D3431DC1-ADA9-49D0-9296-ED3E29DF0300}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Factorial", "Factorial\Factorial.csproj", "{D3431DC1-ADA9-49D0-9296-ED3E29DF0300}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fibonacii", "Fibonacii\Fibonacii.csproj", "{BD69D566-A7B0-46AD-8547-C6BD9E519E54}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Fibonacii", "Fibonacii\Fibonacii.csproj", "{BD69D566-A7B0-46AD-8547-C6BD9E519E54}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForLoop", "ForLoop\ForLoop.csproj", "{33632123-600D-4F9B-B1A3-7484FC3D9BAB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ForLoop", "ForLoop\ForLoop.csproj", "{33632123-600D-4F9B-B1A3-7484FC3D9BAB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hierarchical_Inheritance", "Hierarchical_Inheritance\Hierarchical_Inheritance.csproj", "{8F742716-994A-4F82-8DCD-23E4F0DBC725}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hierarchical_Inheritance", "Hierarchical_Inheritance\Hierarchical_Inheritance.csproj", "{8F742716-994A-4F82-8DCD-23E4F0DBC725}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JumpStatementBreak", "JumpStatementBreak\JumpStatementBreak.csproj", "{00C154C1-93CC-41CC-902E-0E5AFB7D4B39}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JumpStatementBreak", "JumpStatementBreak\JumpStatementBreak.csproj", "{00C154C1-93CC-41CC-902E-0E5AFB7D4B39}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LargestNumber", "LargestNumber\LargestNumber.csproj", "{9B1621D0-EE5C-4ADE-9F23-B9F33F46B310}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LargestNumber", "LargestNumber\LargestNumber.csproj", "{9B1621D0-EE5C-4ADE-9F23-B9F33F46B310}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lists", "Lists\Lists.csproj", "{62DA454E-9EA9-4862-8C44-2A8A820FADE7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lists", "Lists\Lists.csproj", "{62DA454E-9EA9-4862-8C44-2A8A820FADE7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogicalOperator", "LogicalOperator\LogicalOperator.csproj", "{DB7E7941-04B4-4D3D-9784-C108236AABE3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LogicalOperator", "LogicalOperator\LogicalOperator.csproj", "{DB7E7941-04B4-4D3D-9784-C108236AABE3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MethodOverloading", "MethodOverloading\MethodOverloading.csproj", "{0DEDC818-48D7-469B-A13C-54D0801F879E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MethodOverloading", "MethodOverloading\MethodOverloading.csproj", "{0DEDC818-48D7-469B-A13C-54D0801F879E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MethodOverriding", "MethodOverriding\MethodOverriding.csproj", "{32FCB77D-E9F6-4B6F-BB29-D202E943B9FC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MethodOverriding", "MethodOverriding\MethodOverriding.csproj", "{32FCB77D-E9F6-4B6F-BB29-D202E943B9FC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Methods", "Methods\Methods.csproj", "{3361F960-C0D0-49D6-AE39-17BE5A11D518}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Methods", "Methods\Methods.csproj", "{3361F960-C0D0-49D6-AE39-17BE5A11D518}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MethodWithReturnType", "MethodWithReturnType\MethodWithReturnType.csproj", "{A8EED0BA-1FD8-48F6-AEFC-7407732203B0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MethodWithReturnType", "MethodWithReturnType\MethodWithReturnType.csproj", "{A8EED0BA-1FD8-48F6-AEFC-7407732203B0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultilevelInheritance", "MultilevelInheritance\MultilevelInheritance.csproj", "{078D6D62-BB2F-4288-887B-410403FEADB8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MultilevelInheritance", "MultilevelInheritance\MultilevelInheritance.csproj", "{078D6D62-BB2F-4288-887B-410403FEADB8}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Palindrome", "Palindrome\Palindrome.csproj", "{00CAD49B-4C22-4126-BB28-9F510051E8A6}"
 EndProject
@@ -102,6 +102,36 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Variables", "Variables\Variables.csproj", "{F243B0D1-72B8-4017-B4FF-B8403D05A95F}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhileLoop", "WhileLoop\WhileLoop.csproj", "{227E6F01-3908-4C07-9CCF-ABFD27904FB0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InumeratorAndInumerable", "InumeratorAndInumerable\InumeratorAndInumerable.csproj", "{B55F88EB-923F-49F6-A678-8D16B4098CB7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Constructor_Overloading", "Constructor_Overloading\Constructor_Overloading.csproj", "{2A8FE5FF-F818-4784-B166-D2B6EFE7C029}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Classes_Object", "Classes_Object\Classes_Object.csproj", "{FB749B0F-6E7A-4C65-8EBE-5F1C0C61CD9D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Method", "Method\Method.csproj", "{3666575B-AAAE-415B-96BE-635EE5662D4B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StopWatch", "StopWatch\StopWatch.csproj", "{97C05D4A-24E4-47BC-A7BE-80F943156C74}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StopwatchWithThreading", "StopwatchWithThreading\StopwatchWithThreading.csproj", "{1F3D4B5A-5577-48C4-91B0-421E634BE9A3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Stringbuilder", "Stringbuilder\Stringbuilder.csproj", "{F39DBD44-8E8E-4CEA-94AA-AF9DB9B812CA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Stringbuilder2", "Stringbuilder2\Stringbuilder2.csproj", "{F44980D7-EB4D-40B9-8373-A963D36B7681}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ListCapacity", "ListCapacity\ListCapacity.csproj", "{F75619A5-AE12-4736-91EB-AE5E274D5E8E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DiamondProblems", "DiamondProblems\DiamondProblems.csproj", "{5CA4B58E-C714-4ABF-A4BC-238D4605A4DE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LamdaExpression", "LamdaExpression\LamdaExpression.csproj", "{2FC61109-97C5-48E2-BC76-D8D0AA86FB09}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InterfaceMultiInheritce", "InterfaceMultiInheritce\InterfaceMultiInheritce.csproj", "{2F12FA67-1E53-49C7-9980-3D40E6DF7039}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "List_Debug", "List_Debug\List_Debug.csproj", "{469BE913-BB58-4D59-B685-208921B0668A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnonymousType", "AnonymousType\AnonymousType.csproj", "{31FC5D0D-5267-4660-87AE-EF18BA62B775}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Structure", "Structure\Structure.csproj", "{6890B29C-75C4-4DAB-948B-71C7DBA5E997}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -309,6 +339,66 @@ Global
 		{227E6F01-3908-4C07-9CCF-ABFD27904FB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{227E6F01-3908-4C07-9CCF-ABFD27904FB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{227E6F01-3908-4C07-9CCF-ABFD27904FB0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B55F88EB-923F-49F6-A678-8D16B4098CB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B55F88EB-923F-49F6-A678-8D16B4098CB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B55F88EB-923F-49F6-A678-8D16B4098CB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B55F88EB-923F-49F6-A678-8D16B4098CB7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A8FE5FF-F818-4784-B166-D2B6EFE7C029}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A8FE5FF-F818-4784-B166-D2B6EFE7C029}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A8FE5FF-F818-4784-B166-D2B6EFE7C029}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A8FE5FF-F818-4784-B166-D2B6EFE7C029}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB749B0F-6E7A-4C65-8EBE-5F1C0C61CD9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB749B0F-6E7A-4C65-8EBE-5F1C0C61CD9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB749B0F-6E7A-4C65-8EBE-5F1C0C61CD9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB749B0F-6E7A-4C65-8EBE-5F1C0C61CD9D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3666575B-AAAE-415B-96BE-635EE5662D4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3666575B-AAAE-415B-96BE-635EE5662D4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3666575B-AAAE-415B-96BE-635EE5662D4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3666575B-AAAE-415B-96BE-635EE5662D4B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97C05D4A-24E4-47BC-A7BE-80F943156C74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97C05D4A-24E4-47BC-A7BE-80F943156C74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97C05D4A-24E4-47BC-A7BE-80F943156C74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97C05D4A-24E4-47BC-A7BE-80F943156C74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F3D4B5A-5577-48C4-91B0-421E634BE9A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F3D4B5A-5577-48C4-91B0-421E634BE9A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F3D4B5A-5577-48C4-91B0-421E634BE9A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F3D4B5A-5577-48C4-91B0-421E634BE9A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F39DBD44-8E8E-4CEA-94AA-AF9DB9B812CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F39DBD44-8E8E-4CEA-94AA-AF9DB9B812CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F39DBD44-8E8E-4CEA-94AA-AF9DB9B812CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F39DBD44-8E8E-4CEA-94AA-AF9DB9B812CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F44980D7-EB4D-40B9-8373-A963D36B7681}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F44980D7-EB4D-40B9-8373-A963D36B7681}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F44980D7-EB4D-40B9-8373-A963D36B7681}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F44980D7-EB4D-40B9-8373-A963D36B7681}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F75619A5-AE12-4736-91EB-AE5E274D5E8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F75619A5-AE12-4736-91EB-AE5E274D5E8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F75619A5-AE12-4736-91EB-AE5E274D5E8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F75619A5-AE12-4736-91EB-AE5E274D5E8E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CA4B58E-C714-4ABF-A4BC-238D4605A4DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CA4B58E-C714-4ABF-A4BC-238D4605A4DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CA4B58E-C714-4ABF-A4BC-238D4605A4DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CA4B58E-C714-4ABF-A4BC-238D4605A4DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2FC61109-97C5-48E2-BC76-D8D0AA86FB09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FC61109-97C5-48E2-BC76-D8D0AA86FB09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FC61109-97C5-48E2-BC76-D8D0AA86FB09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FC61109-97C5-48E2-BC76-D8D0AA86FB09}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F12FA67-1E53-49C7-9980-3D40E6DF7039}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F12FA67-1E53-49C7-9980-3D40E6DF7039}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F12FA67-1E53-49C7-9980-3D40E6DF7039}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F12FA67-1E53-49C7-9980-3D40E6DF7039}.Release|Any CPU.Build.0 = Release|Any CPU
+		{469BE913-BB58-4D59-B685-208921B0668A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{469BE913-BB58-4D59-B685-208921B0668A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{469BE913-BB58-4D59-B685-208921B0668A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{469BE913-BB58-4D59-B685-208921B0668A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31FC5D0D-5267-4660-87AE-EF18BA62B775}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31FC5D0D-5267-4660-87AE-EF18BA62B775}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31FC5D0D-5267-4660-87AE-EF18BA62B775}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31FC5D0D-5267-4660-87AE-EF18BA62B775}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6890B29C-75C4-4DAB-948B-71C7DBA5E997}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6890B29C-75C4-4DAB-948B-71C7DBA5E997}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6890B29C-75C4-4DAB-948B-71C7DBA5E997}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6890B29C-75C4-4DAB-948B-71C7DBA5E997}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
